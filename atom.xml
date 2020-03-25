@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wpf900.github.io</id>
     <title>Sfly小站Blog</title>
-    <updated>2020-03-25T17:12:28.550Z</updated>
+    <updated>2020-03-25T17:22:43.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wpf900.github.io"/>
     <link rel="self" href="https://wpf900.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个喜欢瞎鼓捣分享的blog</subtitle>
     <logo>https://wpf900.github.io/images/avatar.png</logo>
     <icon>https://wpf900.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sfly小站Blog</rights>
